@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+/*redploy*/
 
 import { getCanonicalUrl } from '@/const/url';
 
